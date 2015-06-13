@@ -5,10 +5,5 @@
     "require": {
         "php": ">=5.4.0",
         "stejsky/composer-installer": "@dev"
-    },
-    "autoload": {
-        "psr-0": {
-            "LoginModule": "app/LoginModule/"
-        }
     }
 }
