@@ -1,0 +1,12 @@
+{
+    "name": "stejsky/login-module",
+    "description": "Basic login module.",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "LoginModule": "app/LoginModule/"
+        }
+    }
+}
