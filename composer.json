@@ -5,8 +5,5 @@
     "require": {
         "php": ">=5.4.0",
         "stejsky/composer-installer": "@dev"
-    },
-    "extra": {
-        "class": "NetteInstaller\\NetteInstallerPlugin"
     }
 }
