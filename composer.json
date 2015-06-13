@@ -3,7 +3,8 @@
     "description": "Basic login module.",
     "type": "nette-module",
     "require": {
-        "php": ">=5.4.0"
+        "php": ">=5.4.0",
+        "stejsky/composer-installer": "@dev"
     },
     "autoload": {
         "psr-0": {
